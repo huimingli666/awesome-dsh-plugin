@@ -1,0 +1,6 @@
+url: https://github.com/huimingli666/dsh-workspace-auto-sort
+name: huimingli666/dsh-workspace-auto-sort
+category: ui
+description:
+  en: Keeps dsh workspace groups sorted by their newest child-session activity, persisted across restarts.
+  zh: 按子会话最近活动时间自动重排 dsh 工作区分组，顺序重启后保留。
